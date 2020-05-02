@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('subset-AvenirNextCyr-Medium.eot');
+    src: url('subset-AvenirNextCyr-Medium.eot?#iefix') format('embedded-opentype'),
+        url('subset-AvenirNextCyr-Medium.woff2') format('woff2'),
+        url('subset-AvenirNextCyr-Medium.woff') format('woff'),
+        url('subset-AvenirNextCyr-Medium.ttf') format('truetype'),
+        url('subset-AvenirNextCyr-Medium.svg#AvenirNextCyr-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('subset-CormorantGaramond-Medium.eot');
+    src: url('subset-CormorantGaramond-Medium.eot?#iefix') format('embedded-opentype'),
+        url('subset-CormorantGaramond-Medium.woff2') format('woff2'),
+        url('subset-CormorantGaramond-Medium.woff') format('woff'),
+        url('subset-CormorantGaramond-Medium.ttf') format('truetype'),
+        url('subset-CormorantGaramond-Medium.svg#CormorantGaramond-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('subset-AvenirNextCyr-Regular.eot');
+    src: url('subset-AvenirNextCyr-Regular.eot?#iefix') format('embedded-opentype'),
+        url('subset-AvenirNextCyr-Regular.woff2') format('woff2'),
+        url('subset-AvenirNextCyr-Regular.woff') format('woff'),
+        url('subset-AvenirNextCyr-Regular.ttf') format('truetype'),
+        url('subset-AvenirNextCyr-Regular.svg#AvenirNextCyr-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('subset-AvenirNextCyr-Demi.eot');
+    src: url('subset-AvenirNextCyr-Demi.eot?#iefix') format('embedded-opentype'),
+        url('subset-AvenirNextCyr-Demi.woff2') format('woff2'),
+        url('subset-AvenirNextCyr-Demi.woff') format('woff'),
+        url('subset-AvenirNextCyr-Demi.ttf') format('truetype'),
+        url('subset-AvenirNextCyr-Demi.svg#AvenirNextCyr-Demi') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('subset-CormorantGaramond-Light.eot');
+    src: url('subset-CormorantGaramond-Light.eot?#iefix') format('embedded-opentype'),
+        url('subset-CormorantGaramond-Light.woff2') format('woff2'),
+        url('subset-CormorantGaramond-Light.woff') format('woff'),
+        url('subset-CormorantGaramond-Light.ttf') format('truetype'),
+        url('subset-CormorantGaramond-Light.svg#CormorantGaramond-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('subset-AvenirNextCyr-Bold.eot');
+    src: url('subset-AvenirNextCyr-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-AvenirNextCyr-Bold.woff2') format('woff2'),
+        url('subset-AvenirNextCyr-Bold.woff') format('woff'),
+        url('subset-AvenirNextCyr-Bold.ttf') format('truetype'),
+        url('subset-AvenirNextCyr-Bold.svg#AvenirNextCyr-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('subset-CormorantGaramond-MediumItalic.eot');
+    src: url('subset-CormorantGaramond-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('subset-CormorantGaramond-MediumItalic.woff2') format('woff2'),
+        url('subset-CormorantGaramond-MediumItalic.woff') format('woff'),
+        url('subset-CormorantGaramond-MediumItalic.ttf') format('truetype'),
+        url('subset-CormorantGaramond-MediumItalic.svg#CormorantGaramond-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('subset-CormorantGaramond-Italic.eot');
+    src: url('subset-CormorantGaramond-Italic.eot?#iefix') format('embedded-opentype'),
+        url('subset-CormorantGaramond-Italic.woff2') format('woff2'),
+        url('subset-CormorantGaramond-Italic.woff') format('woff'),
+        url('subset-CormorantGaramond-Italic.ttf') format('truetype'),
+        url('subset-CormorantGaramond-Italic.svg#CormorantGaramond-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
